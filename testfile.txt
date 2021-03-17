@@ -1,6 +1,4 @@
 bla=5
 az=5
 bbb=333
-abs=sum(bla+az+bbb)
-print(abs)
-hjckhjkxhckj
+def sum = jhkjdhfjksh
